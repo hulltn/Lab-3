@@ -18,7 +18,7 @@ class Main {
     {
       System.out.println(count);
     }
-    
     }
+    System.out.println("Blast Off!");
   }
 }
